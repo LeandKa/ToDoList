@@ -1,0 +1,14 @@
+{
+	"development": {
+		"dialect": "mysql",
+		"host": "localhost",
+		"username": "root",
+		"password": null,
+		"database": "todolist",
+		"define": {
+			"timestamps": true,
+			"underscored": true
+		},
+		"logging": false
+	}
+}
